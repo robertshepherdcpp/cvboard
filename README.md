@@ -37,6 +37,24 @@ the case:
 <img width="756" height="571" alt="image" src="https://github.com/user-attachments/assets/3ff3a788-a87c-4514-b737-5bc804e57fc2" />
 
 
+## BOM
+copied straight from the hackclub repository (with a few small edits)
+- 2x Cherry MX Switches
+- 5x M3x5x4 Heatset inserts
+- 3x M3x16mm SHCS Bolts
+- 2X M3x12mm SHCS Bolts
+- 5x 1N4148 DO-35 Diodes.
+- 2x WS2812B LEDs
+- 1x 0.91" 128x32 OLED Display
+- 1x EC11 Rotary Encoder
+- 1x XIAO RP2040
+- 1x Case (3 printed parts, 2 laser cut parts)
+  what kicad gives me when i select generate BOM:
+  "Reference","Qty","Value","DNP","Exclude from BOM","Exclude from Board","Footprint","Datasheet"
+"SW1,SW2","2","SW_Push","","","","Button_Switch_Keyboard:SW_Cherry_MX_1.00u_PCB","~"
+"U1","1","MOUDLE-SEEEDUINO-XIAO","","","","footprints:XIAO-Generic-Hybrid-14P-2.54-21X17.8MM",""
+
+
 
 
 
