@@ -33,8 +33,9 @@ the pcb itself:
 <img width="167" height="335" alt="image" src="https://github.com/user-attachments/assets/3a11564e-a889-46c5-81f7-0949939c1fe7" />
 <img width="838" height="551" alt="image" src="https://github.com/user-attachments/assets/67afaf3a-0a5f-4712-9961-5e15f35b9a62" />
 the case:
-<img width="749" height="561" alt="image" src="https://github.com/user-attachments/assets/b88cb1f6-ea30-4009-8113-a6ca6ab82df1" />
-<img width="756" height="571" alt="image" src="https://github.com/user-attachments/assets/3ff3a788-a87c-4514-b737-5bc804e57fc2" />
+<img width="1547" height="746" alt="image" src="https://github.com/user-attachments/assets/be0fed43-6942-40ab-98fb-1d287433fd8d" />
+<img width="1366" height="811" alt="image" src="https://github.com/user-attachments/assets/d4d2d8d1-5f9b-48cc-b0d2-b66cbf3d9e02" />
+
 <img width="826" height="678" alt="image" src="https://github.com/user-attachments/assets/ef2585f3-d095-4fa6-b572-fb410ee5a5a3" />
 
 
