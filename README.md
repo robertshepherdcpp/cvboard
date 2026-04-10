@@ -35,6 +35,8 @@ the pcb itself:
 the case:
 <img width="749" height="561" alt="image" src="https://github.com/user-attachments/assets/b88cb1f6-ea30-4009-8113-a6ca6ab82df1" />
 <img width="756" height="571" alt="image" src="https://github.com/user-attachments/assets/3ff3a788-a87c-4514-b737-5bc804e57fc2" />
+<img width="826" height="678" alt="image" src="https://github.com/user-attachments/assets/ef2585f3-d095-4fa6-b572-fb410ee5a5a3" />
+
 
 
 ## BOM
