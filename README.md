@@ -38,7 +38,8 @@ the case:
 <img width="1366" height="811" alt="image" src="https://github.com/user-attachments/assets/d4d2d8d1-5f9b-48cc-b0d2-b66cbf3d9e02" />
 
 <img width="826" height="678" alt="image" src="https://github.com/user-attachments/assets/ef2585f3-d095-4fa6-b572-fb410ee5a5a3" />
-
+exploded view:
+<img width="656" height="600" alt="image" src="https://github.com/user-attachments/assets/ad9a0454-7f74-425e-87dd-6d307e9df0ce" />
 
 
 ## BOM
