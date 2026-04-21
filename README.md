@@ -28,6 +28,14 @@ to set up the project:
 - i was also originally going to use raspberry pi as the MCU, however i chose to switch to using the arduino mirco, as i found programming it with the arduino
 ide actually easier than using QMK (as for the scale of my project for only 2 keys, i thought this was a better choice)
 
+## how to use it
+- i havent actually built it yet, however to use it the process should go something like this:
+- first flash the firmware from the Arduino onto the board (e.g. using the arduino ide)
+- add the Cherry keys onto the PCB, and then add the keycaps
+- assemble the case (and put on the lid)
+- screw in using the bolts
+- then use the left key for control c (copy) and use the right key for control v (paste)
+
 ## some screenshots of the project:
 the pcb schematic:
 <img width="598" height="646" alt="image" src="https://github.com/user-attachments/assets/da74ea10-42a3-4b62-8ac3-8bd4f274d8a1" />
