@@ -38,9 +38,17 @@ ide actually easier than using QMK (as for the scale of my project for only 2 ke
 
 ## some screenshots of the project:
 the pcb schematic:
+<img width="815" height="352" alt="image" src="https://github.com/user-attachments/assets/9e3a1be5-6da9-47dc-b4cb-971e0daa01bd" />
+<img width="354" height="753" alt="image" src="https://github.com/user-attachments/assets/53f67bfe-d5ea-41c8-a6d6-c43437d7deb6" />
+
+
 
 the case:
+<img width="711" height="715" alt="image" src="https://github.com/user-attachments/assets/2e80dc55-290e-428e-907b-2f8806fc56b6" />
+
 exploded view:
+<img width="517" height="644" alt="image" src="https://github.com/user-attachments/assets/38d9eea5-a892-4ede-873c-6d54a63d6b85" />
+
 
 
 ## BOM
