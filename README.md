@@ -28,11 +28,12 @@ to set up the project:
 
 ## some screenshots of the project:
 the pcb schematic:
-<img width="619" height="245" alt="image" src="https://github.com/user-attachments/assets/29a2c084-36e7-4b7f-a066-8646a601eb71" />
-the pcb itself:
-<img width="205" height="458" alt="image" src="https://github.com/user-attachments/assets/f3e6f626-e09f-41a8-a571-8bcd191aaad2" />
+<img width="598" height="646" alt="image" src="https://github.com/user-attachments/assets/da74ea10-42a3-4b62-8ac3-8bd4f274d8a1" />
+<img width="148" height="329" alt="image" src="https://github.com/user-attachments/assets/63a6e3ef-7a7c-40a4-a866-9fa0152dc4ef" />
+<img width="749" height="330" alt="image" src="https://github.com/user-attachments/assets/92d1e7d2-0f84-41f7-8320-ba6374d0cd11" />
 
-<img width="838" height="551" alt="image" src="https://github.com/user-attachments/assets/67afaf3a-0a5f-4712-9961-5e15f35b9a62" />
+
+
 the case:
 <img width="1547" height="746" alt="image" src="https://github.com/user-attachments/assets/be0fed43-6942-40ab-98fb-1d287433fd8d" />
 <img width="1366" height="811" alt="image" src="https://github.com/user-attachments/assets/d4d2d8d1-5f9b-48cc-b0d2-b66cbf3d9e02" />
