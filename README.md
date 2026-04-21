@@ -30,7 +30,8 @@ to set up the project:
 the pcb schematic:
 <img width="619" height="245" alt="image" src="https://github.com/user-attachments/assets/29a2c084-36e7-4b7f-a066-8646a601eb71" />
 the pcb itself:
-<img width="167" height="335" alt="image" src="https://github.com/user-attachments/assets/3a11564e-a889-46c5-81f7-0949939c1fe7" />
+<img width="205" height="458" alt="image" src="https://github.com/user-attachments/assets/f3e6f626-e09f-41a8-a571-8bcd191aaad2" />
+
 <img width="838" height="551" alt="image" src="https://github.com/user-attachments/assets/67afaf3a-0a5f-4712-9961-5e15f35b9a62" />
 the case:
 <img width="1547" height="746" alt="image" src="https://github.com/user-attachments/assets/be0fed43-6942-40ab-98fb-1d287433fd8d" />
