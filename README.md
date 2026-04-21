@@ -56,6 +56,11 @@ exploded view:
 <img width="608" height="355" alt="image" src="https://github.com/user-attachments/assets/7790e93e-6426-4573-a061-0c44fc617547" />
 total $6.38 (however this does not include the printing of the case and the pcb fabrication)
 
+## The Zine
+<img width="885" height="945" alt="image" src="https://github.com/user-attachments/assets/977c7df9-060e-4283-b4bd-d2a926625d6e" />
+(a pdf can also be found in this repository)
+
+
 
 firmware:
 <img width="541" height="886" alt="image" src="https://github.com/user-attachments/assets/98e37f12-0c6b-4323-aede-25ab72e81180" />
