@@ -48,6 +48,7 @@ exploded view:
 ## BOM
 .csv file can be found in this respository:
 <img width="608" height="355" alt="image" src="https://github.com/user-attachments/assets/7790e93e-6426-4573-a061-0c44fc617547" />
+total $6.38 (however this does not include the printing of the case and the pcb fabrication)
 
 
 firmware:
