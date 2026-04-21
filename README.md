@@ -54,6 +54,8 @@ copied straight from the hackclub repository (with a few small edits)
 - 1x XIAO RP2040
 - 1x Case
 
+firmware:
+<img width="541" height="886" alt="image" src="https://github.com/user-attachments/assets/98e37f12-0c6b-4323-aede-25ab72e81180" />
 
 
 
