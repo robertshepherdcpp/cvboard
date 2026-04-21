@@ -40,10 +40,7 @@ ide actually easier than using QMK (as for the scale of my project for only 2 ke
 the pcb schematic:
 
 the case:
-<img width="1547" height="746" alt="image" src="https://github.com/user-attachments/assets/be0fed43-6942-40ab-98fb-1d287433fd8d" />
-<img width="1366" height="811" alt="image" src="https://github.com/user-attachments/assets/d4d2d8d1-5f9b-48cc-b0d2-b66cbf3d9e02" />
 exploded view:
-<img width="656" height="600" alt="image" src="https://github.com/user-attachments/assets/ad9a0454-7f74-425e-87dd-6d307e9df0ce" />
 
 
 ## BOM
