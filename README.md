@@ -25,6 +25,8 @@ to set up the project:
 - i chose to not use any key pads as in the design of the pcb i had put the seeeduino-xiao on the other side of the pcb, however i didnt put the buttons in the correct place in order to use a dxf file creator for a macropad (ai03)
 - as a reuslt of this, i had to make my own lid, which just had a cut out for where the buttons where, this means it has a more "hardware" kind of look, and actually kind of fits with a look i want.
 - i was planning originally to add a turning nob to switch the mappings of the keys around - however i later decided against that idea.
+- i was also originally going to use raspberry pi as the MCU, however i chose to switch to using the arduino mirco, as i found programming it with the arduino
+ide actually easier than using QMK (as for the scale of my project for only 2 keys, i thought this was a better choice)
 
 ## some screenshots of the project:
 the pcb schematic:
@@ -44,15 +46,9 @@ exploded view:
 
 
 ## BOM
-copied straight from the hackclub repository (with a few small edits)
-- 2x Cherry MX Switches
-- 2x DSA Keycaps
-- 2x M3x5x4 Heatset inserts
-- 3x M3x16mm SHCS Bolts
-- 2X M3x12mm SHCS Bolts
-- 5x 1N4148 DO-35 Diodes.
-- 1x XIAO RP2040
-- 1x Case
+.csv file can be found in this respository:
+<img width="608" height="355" alt="image" src="https://github.com/user-attachments/assets/7790e93e-6426-4573-a061-0c44fc617547" />
+
 
 firmware:
 <img width="541" height="886" alt="image" src="https://github.com/user-attachments/assets/98e37f12-0c6b-4323-aede-25ab72e81180" />
