@@ -68,3 +68,4 @@ firmware:
 
 
 total cost: $23.71 (more details in BOM.csv in this repository)
+<img width="1466" height="387" alt="image" src="https://github.com/user-attachments/assets/27952f33-7b44-40c4-9cc8-7d0fc6a47b15" />
