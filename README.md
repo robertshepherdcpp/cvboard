@@ -44,10 +44,11 @@ the pcb schematic:
 
 
 the case:
-<img width="711" height="715" alt="image" src="https://github.com/user-attachments/assets/2e80dc55-290e-428e-907b-2f8806fc56b6" />
+<img width="410" height="673" alt="image" src="https://github.com/user-attachments/assets/b281010b-9518-47e7-b956-4599b61a2f12" />
+
 
 exploded view:
-<img width="517" height="644" alt="image" src="https://github.com/user-attachments/assets/38d9eea5-a892-4ede-873c-6d54a63d6b85" />
+TODO: insert here
 
 
 
