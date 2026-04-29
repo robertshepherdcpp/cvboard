@@ -48,7 +48,8 @@ the case:
 
 
 exploded view:
-TODO: insert here
+<img width="489" height="538" alt="image" src="https://github.com/user-attachments/assets/0421236f-c014-429e-914a-1462807c94f3" />
+
 
 
 
