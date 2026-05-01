@@ -37,10 +37,11 @@ ide actually easier than using QMK (as for the scale of my project for only 2 ke
 - then use the left key for control c (copy) and use the right key for control v (paste)
 
 ## some screenshots of the project:
-the pcb schematic:
-<img width="815" height="352" alt="image" src="https://github.com/user-attachments/assets/9e3a1be5-6da9-47dc-b4cb-971e0daa01bd" />
-<img width="354" height="753" alt="image" src="https://github.com/user-attachments/assets/53f67bfe-d5ea-41c8-a6d6-c43437d7deb6" />
-
+the pcb:
+<img width="718" height="285" alt="image" src="https://github.com/user-attachments/assets/73e5a903-aa08-4650-be45-8d9a74140903" />
+<img width="244" height="699" alt="image" src="https://github.com/user-attachments/assets/1e15dab3-67df-4d44-a918-9fa1d0cd264c" />
+3d model: (.step file)
+<img width="567" height="658" alt="image" src="https://github.com/user-attachments/assets/7d6c4f17-dc71-4a0f-9975-ceeefd12c0b0" />
 
 
 the case:
@@ -50,25 +51,12 @@ the case:
 exploded view:
 <img width="489" height="538" alt="image" src="https://github.com/user-attachments/assets/0421236f-c014-429e-914a-1462807c94f3" />
 
-
-
-
-## BOM
-.csv file can be found in this respository:
-<img width="608" height="355" alt="image" src="https://github.com/user-attachments/assets/7790e93e-6426-4573-a061-0c44fc617547" />
-total $6.38 (however this does not include the printing of the case and the pcb fabrication)
-
 ## The Zine
 <img width="523" height="743" alt="image" src="https://github.com/user-attachments/assets/400d9211-e399-41ca-b652-e24fb03fc96b" />
 (a pdf can also be found in this repository)
 
-
-
 firmware:
 <img width="527" height="915" alt="image" src="https://github.com/user-attachments/assets/7ec71a45-6f15-41ed-b63a-3a9c1c7e8b0c" />
 
-
-
-
-total cost: $23.71 (more details in BOM.csv in this repository)
-<img width="1466" height="387" alt="image" src="https://github.com/user-attachments/assets/27952f33-7b44-40c4-9cc8-7d0fc6a47b15" />
+## BOM
+total cost:  (more details in BOM.csv in this repository)
