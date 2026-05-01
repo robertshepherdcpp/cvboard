@@ -65,7 +65,8 @@ total $6.38 (however this does not include the printing of the case and the pcb 
 
 
 firmware:
-<img width="541" height="886" alt="image" src="https://github.com/user-attachments/assets/98e37f12-0c6b-4323-aede-25ab72e81180" />
+<img width="527" height="915" alt="image" src="https://github.com/user-attachments/assets/7ec71a45-6f15-41ed-b63a-3a9c1c7e8b0c" />
+
 
 
 
