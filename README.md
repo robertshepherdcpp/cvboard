@@ -15,10 +15,10 @@ basically there is a case for it, and the pcb itself:
 - then there are 2 keys, one for control c and one for control c
 - this is then connected to the computer via a usb (that goes throught the case and goes into the pcb), which sends the signals from the button press.
 
-to set up the project:
+**to set up the project**:
 - get the case: insert the pcb
 - then put the lid on (and screw in)
-- then add usb and can use!
+- then add usb and can use! (just type the buttons on the keyboard and they will work as intended!)
 
 ## design considerations
 - as this was my first pcb project there were several design considerations that had to be made due to failures on my part:
