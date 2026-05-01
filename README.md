@@ -59,7 +59,7 @@ exploded view:
 total $6.38 (however this does not include the printing of the case and the pcb fabrication)
 
 ## The Zine
-<img width="524" height="747" alt="image" src="https://github.com/user-attachments/assets/4f2fa9ee-55c0-4d76-944c-6430d76bdd9e" />
+<img width="523" height="743" alt="image" src="https://github.com/user-attachments/assets/400d9211-e399-41ca-b652-e24fb03fc96b" />
 (a pdf can also be found in this repository)
 
 
