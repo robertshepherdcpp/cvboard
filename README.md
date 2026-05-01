@@ -27,6 +27,7 @@ to set up the project:
 - i was planning originally to add a turning nob to switch the mappings of the keys around - however i later decided against that idea.
 - i was also originally going to use raspberry pi as the MCU, however i chose to switch to using the arduino mirco, as i found programming it with the arduino
 ide actually easier than using QMK (as for the scale of my project for only 2 keys, i thought this was a better choice)
+- also i changed from the arduino micro to the xiao-rp2040 as the mcu
 
 ## how to use it
 - i havent actually built it yet, however to use it the process should go something like this:
