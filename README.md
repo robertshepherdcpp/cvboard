@@ -11,7 +11,6 @@ so in short: i saw this cool thing on shark tank (however didnt get any investor
 
 ## how does it work
 basically there is a case for it, and the pcb itself:
-- the pcb uses the microcontroller: seeeduino-xiao (the one recommended in a [tutorial](https://hackpad.hackclub.com/guide) that i took inspiration from)
 - then there are 2 keys, one for control c and one for control c
 - this is then connected to the computer via a usb (that goes throught the case and goes into the pcb), which sends the signals from the button press.
 
