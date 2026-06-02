@@ -53,7 +53,8 @@ exploded view:
 <img width="489" height="538" alt="image" src="https://github.com/user-attachments/assets/0421236f-c014-429e-914a-1462807c94f3" />
 
 ## The Zine
-<img width="523" height="743" alt="image" src="https://github.com/user-attachments/assets/400d9211-e399-41ca-b652-e24fb03fc96b" />
+<img width="497" height="713" alt="image" src="https://github.com/user-attachments/assets/e7e2f304-6a3f-4374-b0f0-1433170c505e" />
+
 (a pdf can also be found in this repository)
 
 firmware:
