@@ -61,6 +61,7 @@ firmware:
 <img width="527" height="915" alt="image" src="https://github.com/user-attachments/assets/7ec71a45-6f15-41ed-b63a-3a9c1c7e8b0c" />
 
 ## BOM
-total cost: $31.08 (more details in BOM.csv in this repository)
-<img width="1467" height="440" alt="image" src="https://github.com/user-attachments/assets/21dc1370-1684-4503-ae77-4ab618727262" />
+total cost: $31.99 (more details in BOM.csv in this repository)
+<img width="1481" height="504" alt="image" src="https://github.com/user-attachments/assets/dbe6dd95-9e59-4872-bc34-0d08911a1939" />
+
 
