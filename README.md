@@ -38,18 +38,23 @@ ide actually easier than using QMK (as for the scale of my project for only 2 ke
 
 ## some screenshots of the project:
 the pcb:
+
 <img width="718" height="285" alt="image" src="https://github.com/user-attachments/assets/73e5a903-aa08-4650-be45-8d9a74140903" />
-<img width="244" height="699" alt="image" src="https://github.com/user-attachments/assets/1e15dab3-67df-4d44-a918-9fa1d0cd264c" />
+
+<img width="299" height="709" alt="image" src="https://github.com/user-attachments/assets/284a9b30-9e3e-4019-a09a-87622925894b" />
+
+
 3d model: (.step file)
-<img width="567" height="658" alt="image" src="https://github.com/user-attachments/assets/7d6c4f17-dc71-4a0f-9975-ceeefd12c0b0" />
+
+<img width="355" height="576" alt="image" src="https://github.com/user-attachments/assets/d40ca53a-1ee8-4a60-b34d-23d4a957905b" />
+
 
 
 the case:
-<img width="410" height="673" alt="image" src="https://github.com/user-attachments/assets/b281010b-9518-47e7-b956-4599b61a2f12" />
+
+<img width="373" height="572" alt="image" src="https://github.com/user-attachments/assets/2ab37c54-3687-4846-aad8-e781dba24521" />
 
 
-exploded view:
-<img width="489" height="538" alt="image" src="https://github.com/user-attachments/assets/0421236f-c014-429e-914a-1462807c94f3" />
 
 ## The Zine
 <img width="517" height="727" alt="image" src="https://github.com/user-attachments/assets/75048f49-3ff6-4fbd-b065-7ab1e0463740" />
