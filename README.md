@@ -30,11 +30,12 @@ ide actually easier than using QMK (as for the scale of my project for only 2 ke
 
 ## how to use it
 - i havent actually built it yet, however to use it the process should go something like this:
-- first flash the firmware from the Arduino onto the board (e.g. using the arduino ide)
+- first flash the firmware from your computer onto the board (e.g. using the arduino ide and install the appropriate library for the mcu)
 - add the Cherry keys onto the PCB, and then add the keycaps
 - assemble the case (and put on the lid)
-- screw in using the bolts
-- then use the left key for control c (copy) and use the right key for control v (paste)
+- screw in using the bolts going through the pcb.
+- then use the left key for control c (copy) and use the right key for control v (paste).
+- make sure you keep the project plugged into the computer - as the usb connection is the source of power.
 
 ## some screenshots of the project:
 the pcb:
